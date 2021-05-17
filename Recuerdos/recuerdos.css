@@ -1,0 +1,125 @@
+:root{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin:0px;
+    border:0px;
+    padding: 0px;
+    font-family: 'Short Stack', cursive;
+    font-family: 'Comfortaa', cursive;
+}
+
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    padding: 60px 0;
+}
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    padding: 60px 0;
+}
+
+header{
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(120, 241, 250, 0.753) 0%, rgba(151, 218, 225, 0.747) 100%), url('../Img/Kpop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.titulo{
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.head{
+    text-align: center;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}
+.subtitulo{
+    text-align: center;
+    font-weight: 300;
+    color: rgb(70, 204, 209);
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+.copy{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.n-service{
+    margin-bottom: 7px;
+    color: lightseagreen;
+}
+.number{
+    display: inline-block;
+    background-image: linear-gradient(to top, #45d5da 0%, #97d9e1 100%);
+    width: 30px;
+    height: 30px;
+    color: black;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 700;
+    line-height: 30px;
+    margin-right: 5px;
+}
+.numero{
+    display: inline-block;
+    background-image: linear-gradient(to top, #456dda 0%, #456dda 100%);
+    width: 30px;
+    height: 30px;
+    color: black;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 700;
+    line-height: 30px;
+    margin-right: 5px;
+}
+.contenedor-servicio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contenedor-servicio  img{
+    width: 40%;
+}
+.checklist-servicio{
+    width: 45%;
+
+}
+
+.service{
+    margin-bottom: 20px;
+}
+
+.cont.uwu{
+    margin-bottom: 20px;
+}
+.n-service{
+    margin-bottom: 7px;
+    color: lightseagreen;
+}
+.owo{
+    margin-bottom: 7px;
+    color: rgb(59, 115, 219);
+}
+
+
+
+
+
+
